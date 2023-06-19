@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+}
+
+#My_carrucel
+{
+    background-color: aquamarine;
+}
+
+#My_carrucel img
+{
+    margin: 5%;
+    width: 20%;
+    height: 20%;
+}
+
+
+
